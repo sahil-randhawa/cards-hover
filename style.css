@@ -27,7 +27,7 @@ body{
 .card {
     position: relative;
     cursor: pointer;
-    transition: scale 100ms;
+    transition: scale 200ms;
 }
 
 .card .card-main-img{
