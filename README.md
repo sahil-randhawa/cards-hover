@@ -2,4 +2,4 @@
 
 Cards Fader Effect, CSS mini-project
 
-https://sahil-randhawa.github.io/cards-hover-effect
+Preview: https://sahil-randhawa.github.io/cards-hover-effect
